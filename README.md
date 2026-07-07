@@ -2,6 +2,14 @@
 
 ## Key Findings
 
+| Finding  | Result |
+| ------------- | ------------- |
+| Food allergy rate in children with no family history (NHIS 2021)  | 7.0% |
+| Best model using every demographic variable available, 159 in total (NHIS)  | AUC 0.602 |
+| Model using a routine blood count (NHANES 2005 to 2006)  | AUC 0.718  |
+| Strongest single predictor, agreed on by four separate methods  | Eosinophil percentage  |
+| Eczema before age two and later food allergy (CHOP, 294,905 children)  | Odds ratio 3.88, 95% CI 3.73 to 4.05  |
+
 ## Datasets
 Everything here is public, and the notebook pulls it in automatically.
 
