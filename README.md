@@ -1,5 +1,8 @@
 # Predicting Food Allergy in Children Who Have No Family History of Allergies
 
+## Summary
+Food allergies affect roughly eight percent of children in the United States, causing life threatening reactions. Family history is commonly used to flag children at risk, yet many children develop food allergies despite having no family history. We used a machine learning approach to test how well food allergies can be predicted in these children, and what factors limit that prediction. We hypothesized that demographic and socioeconomic variables collected in national health surveys would predict food allergies in this subgroup. In the 2021 National Health Interview Survey, children were linked to parents through household identifiers, and we identified 5,425 children with no parental allergy history, with 7% of them developing allergies. Our hypothesis was refuted. Models trained on all 159 available demographic variables reached a maximum cross validated area under the curve (AUC) of 0.602. In the 2005 to 2006 National Health and Nutrition Examination Survey, models using routine blood count data reached an AUC of 0.718 for elevated immunoglobulin E, with eosinophil level the strongest predictor across four independent methods. In 294,905 pediatric records, eczema before age two was associated with the development of food allergies in the future (odds ratio 3.88, 95% CI 3.73 to 4.05). Our results suggest that the variables carrying predictive signal are largely absent from public health surveys and indicate which early life clinical measures these surveys would need to collect.
+
 ## Key Findings
 
 | Finding  | Result |
